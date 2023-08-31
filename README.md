@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiaznyc1&hide=stars,prs)](https://github.com/anuraghazra/github-readme-stats)
+[![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiaznyc1&hide=stars,prs&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **imtiaznyc1/imtiaznyc1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
