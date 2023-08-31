@@ -5,13 +5,13 @@
 Thank you for stumbling upon my profile! My name is Imtiaz Rahman raised in NYC. Outside of this "boring" stuff called coding I love to enjoy and appreciate music. I've caught along the hobby of playing the guitar by self teaching through Youtube. While I don't have much time due to work and projects, I always keep my guitar right by me so I can play whenever I get the chance. Cars would have to be my next major hobby. I can rant for hours discussing cars and what I love most about them. Currently trying to settle my family down with a house but once that goal has been dealt with, hopefully can start to act upon my rather expensive hobby of cars. 
 
 ## Projects I am Working On/In Mind
-### Jarvis
+#### Jarvis
 Currently working on a VSCode extension called Jarvis. The goal of this extension is to aid developers by being able to grab various errors than arise when compiling code and showing a clean side view of top google searches and snippits of answers. These will be attached along with the actual web link to the pages. That way developers hopefully don't have to spend too much time switching around windows or views and hopefully can find any answers they may need on demand. Looking to expand on this functionality and hopefully enable Jarvis to actually speak!
 
-### PhotoConnect
+#### PhotoConnect
 Haven't started yet but eventually would love to create a platform for photographers to easily manage their clients and vice versa. There is a gap seen where there isn't a strong common ground for photographers to manage their clientele. While freelancing sites exist, I believe there is opportunity to personalize this experience of transaction between clients and photographers. 
 
-### BuddyBot
+#### BuddyBot
 I've always wanted to work on a ML and NLP focused personal project and what better way than to create a bot that enables us to lighten our heart. The aim isn't to replace or remotely mimic that of a real buddy, but rather a means for anyone at anytime to simply vent/overshare/rant about anything and get responses that humanly make sense. This can potentially create a space for us all to allow us to release our thoughts when someone we need isn't next to us at times. 
 
 ## Cars
