@@ -1,4 +1,4 @@
-### Hi there 👋
+### [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=হ্যালো!, Hello!, ٱلسَّلَامُ عَلَيْكُمْ)](https://git.io/typing-svg)
 [![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiaznyc1&hide=stars,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
