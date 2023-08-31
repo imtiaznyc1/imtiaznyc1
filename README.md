@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hello!;Assalamu+alaikum!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=2000&width=435&lines=Hello!;Assalamu+alaikum!)](https://git.io/typing-svg)
 
 [![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiaznyc1&hide=stars,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
