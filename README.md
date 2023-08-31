@@ -5,7 +5,7 @@
 Thank you for stumbling upon my profile! My name is Imtiaz Rahman raised in NYC. Outside of this "boring" stuff called coding I love to enjoy and appreciate music. I've caught along the hobby of playing the guitar by self teaching through Youtube. While I don't have much time due to work and projects, I always keep my guitar right by me so I can play whenever I get the chance. Cars would have to be my next major hobby. I can rant for hours discussing cars and what I love most about them. Currently trying to settle my family down with a house but once that goal has been dealt with, hopefully can start to act upon my rather expensive hobby of cars. 
 
 ## Projects I am Working On
-
+###Jaris
 Currently working on a VSCode extension called Jarvis. The goal of this extension is to aid developers by being able to grab various errors than arise when compiling code and showing a clean side view of top google searches and snippits of answers. These will be attached along with the actual web link to the pages. That way developers hopefully don't have to spend too much time switching around windows or views and hopefully can find any answers they may need on demand. Looking to expand on this functionality and hopefully enable Jarvis to actually speak!
 
 ## Cars
