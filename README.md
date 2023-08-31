@@ -6,6 +6,11 @@ Thank you for stumbling upon my profile! My name is Imtiaz Rahman raised in NYC.
 
 ## Projects I am Working On
 
+Currently working on a VSCode extension called Jarvis. The goal of this extension is to aid developers by being able to grab various errors than arise when compiling code and showing a clean side view of top google searches and snippits of answers. These will be attached along with the actual web link to the pages. That way developers hopefully don't have to spend too much time switching around windows or views and hopefully can find any answers they may need on demand. Looking to expand on this functionality and hopefully enable Jarvis to actually speak!
+
+## Cars
+
+I am a JDM boy at heart and have always loved the tuneability and personality that these gems contain. The MK4 supra will always have my heart and would love to own one eventually. However, I do also love the newer MK5 as contraversial as it is. While it is a BMW internally, I think the design and potential is amazing and will age well as years go by. Alongside the supra I love the R35 GTR. Probably a car I would instantly go for if finances allowed. While I love JDM, I appreciate good cars in general. The Hellcat, Shelby 500, M3/M4 are just some of the few cars I can list on the top of my head that I will be a fanboy for. 
 
 [![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiaznyc1&hide=stars,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
