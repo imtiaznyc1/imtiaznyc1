@@ -14,6 +14,8 @@ I am a JDM boy at heart and have always loved the tuneability and personality th
 
 ![Image description](https://github.com/imtiaznyc1/imtiaznyc1/blob/main/images/2020-Toyota-GR-Supra-Pandem-Widebody-Kit.jpg)
 
+![Image description](https://github.com/imtiaznyc1/imtiaznyc1/blob/main/images/r35.jpg)
+
 [![Imtiaz's GitHub stats](https://github-readme-stats.vercel.app/api?username=imtiaznyc1&hide=stars,prs&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <!--
