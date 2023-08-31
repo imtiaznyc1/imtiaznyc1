@@ -11,6 +11,9 @@ Currently working on a VSCode extension called Jarvis. The goal of this extensio
 ### PhotoConnect
 Haven't started yet but eventually would love to create a platform for photographers to easily manage their clients and vice versa. There is a gap seen where there isn't a strong common ground for photographers to manage their clientele. While freelancing sites exist, I believe there is opportunity to personalize this experience of transaction between clients and photographers. 
 
+### BuddyBot
+I've always wanted to work on a ML and NLP focused personal project and what better way than to create a bot that enables us to lighten our heart. The aim isn't to replace or remotely mimic that of a real buddy, but rather a means for anyone at anytime to simply vent/overshare/rant about anything and get responses that humanly make sense. This can potentially create a space for us all to allow us to release our thoughts when someone we need isn't next to us at times. 
+
 ## Cars
 
 I am a JDM boy at heart and have always loved the tuneability and personality that these gems contain. The MK4 supra will always have my heart and would love to own one eventually. However, I do also love the newer MK5 as contraversial as it is. While it is a BMW internally, I think the design and potential is amazing and will age well as years go by. Alongside the supra I love the R35 GTR. Probably a car I would instantly go for if finances allowed. While I love JDM, I appreciate good cars in general. The Hellcat, Shelby 500, M3/M4 are just some of the few cars I can list on the top of my head that I will be a fanboy for. 
